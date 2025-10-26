@@ -48,11 +48,11 @@ header p {
 }
 
 /* Feed */
-.feed {
+/* .feed {
   display: flex;
   flex-direction: column;
-  gap: 60px;             /* big spacing between posts */
-}
+  gap: 60px;           
+} */
 
 /* Posts */
 .post {
