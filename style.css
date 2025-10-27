@@ -11,7 +11,7 @@
 
 html, body {
     margin: 0;
-    padding: 0 20px;
+    padding: 0 1vw;
     background: var(--bg);
     color: var(--text);
 }
@@ -32,14 +32,14 @@ body {
 h1 {
   font-family: var(--font-heading);
   font-weight: 900;
-    font-size: 4vw;
+    font-size: 6vw;
   letter-spacing: clamp(-0.05em, -0.5vw, -0.5rem);
   margin: 0;
 }
 
 
 p {
-  font-size: 2vw;
+  font-size: 3vw;
   margin-bottom: 30px;
   text-align: left;
       font-family: var(--font-sans-serif);
@@ -50,7 +50,7 @@ p {
 .feed {
   display: flex;
   flex-direction: column;
-  gap: 200px;           
+  gap: 3.5vw;           
 }
 
 /* Posts */
@@ -80,7 +80,8 @@ p {
 /* Caption & Date */
 .caption {
   margin-top: 16px;
-  font-size: 2vw;      
+  margin-bottom: 16px;
+  font-size: 2.5vw;      
   line-height: 1.2;
   text-align: left;
 }
@@ -91,7 +92,7 @@ p {
 
 .date {
   margin-top: 4px;
-  font-size: 1.5vw;
+  font-size: 2vw;
   text-align: left;
 }
 
