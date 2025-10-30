@@ -2,10 +2,11 @@ const feed = document.getElementById('feed');
 
 // --- Add posts here ---
 const posts = [
-    {img: 'images/image-4.png', caption: "Irish Republican Army volunteer by Colman Doyle from 1973.", date: 'Oct 28, 2025' },
-    {img: 'images/image-3.png', caption: "IBM System/370 Model 145 computer from 1970.", date: 'Oct 27, 2025' },
+    {img: 'images/image-5.png', caption: "POP Pier, Santa Monica, 1970s.", date: 'Oct 30, 2025' },
+    {img: 'images/image-4.png', caption: "Irish Republican Army volunteer by Colman Doyle, 1973.", date: 'Oct 28, 2025' },
+    {img: 'images/image-3.png', caption: "IBM System/370 Model 145 computer, 1970.", date: 'Oct 27, 2025' },
     { img: 'images/image-2.jpg', caption: '"Crime, 1957" by Gordon Parks for Life Magazine.', date: 'Oct 26, 2025' },
-    { img: 'images/image-1.jpg', caption: 'EditDroid video editing system created by George Lucas in 1984.', date: 'Oct 25, 2025' },
+    { img: 'images/image-1.jpg', caption: 'EditDroid video editing system created by George Lucas, 1984.', date: 'Oct 25, 2025' },
 
   // Add more posts as needed
 ];
