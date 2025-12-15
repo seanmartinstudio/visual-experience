@@ -2,6 +2,7 @@ const feed = document.getElementById('feed');
 
 // --- Add posts here ---
 const posts = [
+    {img: 'images/image-7.png', caption: "Andy Warhol, Billy Al Bengston and Dennis Hopper at the Pasadena Art Museum, 1963.", date: 'Dec 15, 2025' },
     {img: 'images/image-6.png', caption: "Artist Chris Burden crucified onto the back of a Volkswagen Beetle, Venice Beach, 1974.", date: 'Nov 13, 2025' },
     {img: 'images/image-5.png', caption: "POP Pier, Santa Monica, 1970s.", date: 'Oct 30, 2025' },
     {img: 'images/image-4.png', caption: "Irish Republican Army volunteer by Colman Doyle, 1973.", date: 'Oct 28, 2025' },
